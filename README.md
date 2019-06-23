@@ -1,16 +1,14 @@
-# Crime analysis and political corruption using data mining, machine learning and complex networks
-
+# Crime and political corruption analysis using data mining, machine learning and complex networks
 
 There has been a remarkable increasing in the amount of stored data by private and public companies about urban systems. On one hand, these huge amounts of data enable a detailed historical review of the processes under investigation; on the other hand, this excess of data makes harder to extract summarized information and also to make good decisions supported by well-established empirical facts. This modern phenomenon has been called a big data and understanding these systems and extracting patterns from these data requires a multidisciplinary approach. In this sense, during the course at the [School of Applied Mathematics](http://www.cemeai.icmc.usp.br/component/k2/item/828-analise-de-crimes-e-corrupcao-politica-usando-mineracao-de-dados-aprendizado-de-maquina-e-redes-complexas) in the [Institute of Mathematics and Computer Science at University of São Paulo](https://www.icmc.usp.br/) we will address topics that involve computer science, statistics, and physics. Among them, we should focus on the following ones:
 
-* Introduction to Python and web scraping;
+* Introduction to Python;
+* Web scraping; 
 * Data mining;
 * Machine learning;
 * Complex networks;
 
-
 Using these tools, we will focus on two issues that are of great relevance in Brazil: predicting homicides in cities and describing the mechanism behind political corruption networks. In the first topic, we will use machine learning techniques to predict the number of crimes in Brazilian cities. In the second theme, we will use the complex networks to describe the interaction between politicians investigated in corruption scandals in Brazil from 1987 to 2014.
-
 
 
 Any comments, questions, or concerns can be directed to:
@@ -63,10 +61,10 @@ Enrollment Period: 04/15/2019 to 05/30/2019.
 * Downey, A. Think Python. (O’Reilly, 2012).
 * Mitchell, R. Web Scraping with Python. (O’Reilly, 2018).
 * Janert, P. K. Data Analysis with Open Source Tools. (O’Reilly, 2010).
-* Friedman, J., Hastie, T., &Tibshirani, R. The elements of statistical learning. (Springer, 2001).
+* Friedman, J., Hastie, T., & Tibshirani, R. The elements of statistical learning. (Springer, 2001).
 * Newman, M. Networks: An introduction. (Oxford University Press, 2010).
-* Alves, L. G. A., Ribeiro, H. V., Rodrigues, F. A. Crime  prediction through urban metrics and statistical learning. Physica A 515, 435 (2018).
-* Ribeiro, H. V., Alves, L. G. A., Martins, A. F., Lenzi, E.K., Perc. M. The dynamical structure of political corruption networks. Journal of Complex Networks CNY002 (2018).
+* [Alves, L. G. A., Ribeiro, H. V., Rodrigues, F. A. Crime  prediction through urban metrics and statistical learning. Physica A 515, 435 (2018).](https://doi.org/10.1016/j.physa.2018.03.084)
+* [Ribeiro, H. V., Alves, L. G. A., Martins, A. F., Lenzi, E.K., Perc. M. The dynamical structure of political corruption networks. Journal of Complex Networks CNY002 (2018).](https://doi.org/10.1093/comnet/cny002)
 * [NICO 101 - Introduction to Programming for Big Data
 ](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
 
