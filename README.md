@@ -10,6 +10,57 @@ There has been a remarkable increasing in the amount of stored data by private a
 
 Using these tools, we will focus on two issues that are of great relevance in Brazil: predicting homicides in cities and describing the mechanism behind political corruption networks. In the first topic, we will use machine learning techniques to predict the number of crimes in Brazilian cities. In the second theme, we will use the complex networks to describe the interaction between politicians investigated in corruption scandals in Brazil from 1987 to 2014.
 
+# Course Syllabus
+
+This course is broken up into several modules with each module having a set of Jupyter notebooks to help teach concepts.
+
+
+
+## Basics (Day 1)
+0. [Jupyter Notebook](Lessons/Day1_am1_Jupyter-Notebook-Introduction.ipynb)
+1. [Basic Data Types](Lessons/Day1_am2_Data-Types.ipynb)
+2. [Flow Control](Lessons/Day1_pm1_Flow-Control.ipynb)
+2. [Errors](Lessons/Day1_pm2_Handling_Errors.ipynb)
+
+## Collections and Files (Day 2)
+1. [Lists, Tuples, and Sets](Lessons/Day2_am1_Lists-Tuples-and-Sets.ipynb)
+3. [File I/O](Lessons/Day2_am2_File-IO.ipynb)
+4. [Section Review](Lessons/Day2_pm1_Review.ipynb)
+
+## Imports, Plots, and Functions (Day 3)
+1. [The Python Standard Library](Lessons/Day3_am1_Standard-Library.ipynb)
+2. [Data Visualization](Lessons/Day3_am2_Data-Visualization.ipynb)
+3. [Functions](Lessons/Day3_pm1_Functions.ipynb)
+4. [Review](Lessons/Day3_pm2_Review.ipynb) (Optional)
+
+## Dictionaries and Skill Review (Day 4)
+1. [Dictionaries](Lessons/Day4_am1_dictionaries.ipynb)
+2. [Review](Lessons/Day4_am2_Review.ipynb)
+3. [Mini-Project](Lessons/Day4_pm1_Mini-Project.ipynb)
+
+## Textual Analysis (Day 5)
+1. [Text Analysis](Lessons/Day5_am1_Text-analysis.ipynb)
+2. [Regular expressions](Lessons/Day5_pm1_Regular-expressions.ipynb)
+3. [Sentiment analysis](Lessons/Day5_pm2_Sentiment-Analysis.ipynb)
+
+## Working with the Web (Day 6)
+1. [Introduction to APIs](Lessons/Day6_am1_Using_APIs_1.ipynb)
+2. [Reading and Posting with APIs](Lessons/Day6_am2_Using_APIs_2.ipynb)
+3. [Web Scraping](Lessons/Day6_pm1_Web_scraping.ipynb)
+
+## Statistics and Structured Data (Day 7)
+0. [Statistical Analysis with Python](Lessons/Day7_am1_Statistical_analysis_w_Python.ipynb)
+1. [Bootstrapping](Lessons/Day7_am2_The-Bootstrap.ipynb)
+2. [Model Fitting](Lessons/Day7_am2_More_stats_w_Python.ipynb)
+1. [Structured data analysis - Part 1](Lessons/Day7_pm1_Structured-Data-Analysis-Pt1.ipynb)
+2. [Structured data analysis - Part 2](Lessons/Day7_pm2_Structured-Data-Analysis-Pt2.ipynb)
+
+## Image Analysis (Day 8)
+1. [Image Manipulation](Lessons/Day8_am1_Image-Manipulation.ipynb)
+2. [Image Analysis](Lessons/Day8_am2_Image-Analysis.ipynb)
+3. [Identifying Cells](Lessons/Day8_pm1_Cell_detection_project.ipynb)
+
+
 
 Any comments, questions, or concerns can be directed to:
 
