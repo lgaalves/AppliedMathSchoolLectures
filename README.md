@@ -42,10 +42,33 @@ This text and the majority of the course will conducted with Jupyter Notebook <h
 
 Jupyter Notebook is installed by default with the Anaconda Python distribution and can be laucnhed from the Anaconda Navigator program. 
 
+## Location and period of the course:
+
+Period: July 1 to July 6, 2019.
+
+Hours: 08:00 to 12:00
+
+Location: ([Institute of Mathematics and Computer Science at University of São Paulo](https://www.icmc.usp.br/)) / University of São Paulo (rooms of block 3).
+
+Approval Criteria: 85% of attendance and performance of proposed activities.
+
+Target Audience: Senior year students and postgraduate students in applied mathematics, statistics, computer science and physics interested in data science.
+
+Number of vacancies: 20
+
+Enrollment Period: 04/15/2019 to 05/30/2019.
+
 ## References
 
+* Downey, A. Think Python. (O’Reilly, 2012).
+* Mitchell, R. Web Scraping with Python. (O’Reilly, 2018).
+* Janert, P. K. Data Analysis with Open Source Tools. (O’Reilly, 2010).
+* Friedman, J., Hastie, T., &Tibshirani, R. The elements of statistical learning. (Springer, 2001).
+* Newman, M. Networks: An introduction. (Oxford University Press, 2010).
+* Alves, L. G. A., Ribeiro, H. V., Rodrigues, F. A. Crime  prediction through urban metrics and statistical learning. Physica A 515, 435 (2018).
+* Ribeiro, H. V., Alves, L. G. A., Martins, A. F., Lenzi, E.K., Perc. M. The dynamical structure of political corruption networks. Journal of Complex Networks CNY002 (2018).
 * [NICO 101 - Introduction to Programming for Big Data
 ](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
-* 
+
 
 
