@@ -2,12 +2,11 @@
 *
 
 # Don't ignore directories, so we can recurse into them
-!*/
+*/
 
 # Don't ignore .gitignore
-!.gitignore
-!.ipynb
-!.py
+.gitignore
+.py
 
 # Now exclude our type
 !.ipynb_checkpoints

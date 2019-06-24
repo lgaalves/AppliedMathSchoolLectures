@@ -39,12 +39,34 @@ This course is broken up into several modules with each module having a set of J
 7. [Web Scraping](/day-2-introduction-to-python-part-II-and-web-scraping/07%20-%20Web%20scraping.ipynb)
 
 ## Data Mining, Statistics, and Data Analysis (Day 3)
-0. [Statistical analysis with Python](day-2-introduction-to-python-part-II-and-web-scraping/00%20-%20Standard%20Library.ipynb)
-1. [Bootstrapping MC chains](day-2-introduction-to-python-part-II-and-web-scraping/01%20-%20Data%20Visualization.ipynb)
-2. [More stats with Python](day-2-introduction-to-python-part-II-and-web-scraping/02%20-%20Functions.ipynb)
-3. [Structured Data Analysis Pt1](day-2-introduction-to-python-part-II-and-web-scraping/03%20-%20Review.ipynb) 
-4. [Structured Data Analysis Pt2](day-2-introduction-to-python-part-II-and-web-scraping/04%20-%20Dictionaries.ipynb)
+0. [Statistical analysis with Python](day-3-data-mining/00%20-%20Statistical%20analysis%20with%20Python.ipynb)
+1. [Bootstrapping MC chains](day-3-data-mining/01%20-%20Bootstrapping%20MC%20chains.ipynb)
+2. [More stats with Python](day-3-data-mining/02%20-%20More%20stats%20with%20Python.ipynb)
+3. [The Bootstrap](day-3-data-mining/03%20-%20The%20Bootstrap.ipynb)
+4. [Structured Data Analysis Pt1](day-3-data-mining/04%20-%20Structured%20Data%20Analysis%20Pt1.ipynb) 
+5. [Structured Data Analysis Pt2](day-3-data-mining/05%20-%20Structured%20Data%20Analysis%20Pt2.ipynb)
 
+## Machine Learning Part I (Day 4)
+0. [Data Loading](day-4-machine-learning-part-I/00%20-%20Data%20Loading.ipynb)
+1. [Introduction to Scikit Learn](day-4-machine-learning-part-I/01%20-%20Introduction%20to%20Scikit-learn.ipynb)
+2. [Unsupervised Transforms](day-4-machine-learning-part-I/02%20-%20Unsupervised%20Transformers.ipynb)
+3. [Cross-validation and Grid Search](day-4-machine-learning-part-I/03%20-%20Cross-validation%20and%20Grid%20Search.ipynb)
+4. [Preprocessing](day-4-machine-learning-part-I/04%20-%20Preprocessing.ipynb) 
+
+## Machine Learning Part II (Day 5)
+0. [Linear Models for Regression](day-5-machine-learning-part-II/00%20-%20Linear%20Models%20for%20Regression.ipynb)
+1. [Linear Models for Classification](day-5-machine-learning-part-II/01%20-%20Linear%20Models%20for%20Classification.ipynb)
+2. [Trees](day-5-machine-learning-part-II/02%20-%20Trees.ipynb)
+3. [Random Forests](day-5-machine-learning-part-II/03%20-%20Random%20Forests.ipynb)
+4. [Gradient Boosting](day-5-machine-learning-part-II/04%20-%20Gradient%20Boosting.ipynb) 
+5. [Homicides prediction](day-5-machine-learning-part-II/05%20-%20Homicides%20Prediction.ipynb)
+
+## Complex Network and Analysis of Corruption Networks (Day 5)
+0. [Network Basics](day-5-machine-learning-part-II/00%20-%20Linear%20Models%20for%20Regression.ipynb)
+1. [Analysis of Structural Properties](day-5-machine-learning-part-II/01%20-%20Linear%20Models%20for%20Classification.ipynb)
+2. [Network Vizualization and Queries on Networks](day-5-machine-learning-part-II/02%20-%20Trees.ipynb)
+3. [Network Analysis from Data](day-5-machine-learning-part-II/03%20-%20Random%20Forests.ipynb)
+4. [Corruption Network](day-5-machine-learning-part-II/04%20-%20Gradient%20Boosting.ipynb) 
 
 
 ## Software Installation
