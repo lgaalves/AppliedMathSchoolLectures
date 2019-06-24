@@ -1,12 +1,12 @@
 # Crime and political corruption analysis using data mining, machine learning and complex networks
 
-There has been a remarkable increasing in the amount of stored data by private and public companies. On one hand, these huge amounts of data enable a detailed historical review of the processes under investigation; on the other hand, this excess of data makes harder to extract summarized information and also to make good decisions supported by well-established empirical facts. This modern phenomenon has been called a big data and understanding these systems and extracting patterns from these data requires a multidisciplinary approach. In this sense, during the course at the [School of Applied Mathematics](http://www.cemeai.icmc.usp.br/component/k2/item/828-analise-de-crimes-e-corrupcao-politica-usando-mineracao-de-dados-aprendizado-de-maquina-e-redes-complexas) in the [Institute of Mathematics and Computer Science at University of São Paulo](https://www.icmc.usp.br/) we will address topics that involve computer science, statistics, and physics. Among them, we should focus on the following ones:
+There has been a remarkable increasing in the amount of stored data by private and public companies. On one hand, these huge amounts of data enable a detailed historical review of the processes under investigation; on the other hand, this excess of data makes harder to extract summarized information and also to make good decisions supported by well-established empirical facts. This modern phenomenon has been called a big data and understanding these systems and extracting patterns from these data requires a multidisciplinary approach. In this sense, during the course at the [School of Applied Mathematics](http://www.cemeai.icmc.usp.br/component/k2/item/828-analise-de-crimes-e-corrupcao-politica-usando-mineracao-de-dados-aprendizado-de-maquina-e-redes-complexas) in the [Institute of Mathematics and Computer Science](https://www.icmc.usp.br/) at [University of São Paulo](https://www5.usp.br/) we will address topics that involve computer science, statistics, and physics. Among them, we should focus on the following ones:
 
 * Introduction to Python;
 * Web scraping; 
 * Data mining;
 * Machine learning;
-* Complex networks;
+* Complex networks.
 
 Using these tools, we will focus on two issues that are of great relevance in Brazil: predicting homicides in cities and describing the mechanism behind political corruption networks. In the first topic, we will use machine learning techniques to predict the number of crimes in Brazilian cities. In the second theme, we will use the complex networks to describe the interaction between politicians investigated in corruption scandals in Brazil from 1987 to 2014.
 
@@ -19,42 +19,37 @@ Any comments, questions, or concerns can be directed to:
 
 This course is broken up into several modules with each module having a set of Jupyter notebooks to help teach concepts.
 
-## Basics (Day 1)
-0. [Jupyter Notebook](Lessons/Day1_am1_Jupyter-Notebook-Introduction.ipynb)
-1. [Basic Data Types](Lessons/Day1_am2_Data-Types.ipynb)
-2. [Flow Control](Lessons/Day1_pm1_Flow-Control.ipynb)
-2. [Errors](Lessons/Day1_pm2_Handling_Errors.ipynb)
+## Basics, Collections and Files (Day 1)
+0. [Jupyter Notebook](day-1-introduction-to-python-part-I/00%20-%20Jupyter%20Notebook%20Introduction.ipynb)
+1. [Basic Data Types](day-1-introduction-to-python-part-I/01%20-%20Data%20Types.ipynb)
+2. [Flow Control](day-1-introduction-to-python-part-I/02%20-%20Flow-Control.ipynb)
+2. [Errors](day-1-introduction-to-python-part-I/03%20-%20Handling%20Errors.ipynb)
+3. [Lists, Tuples, and Sets](day-1-introduction-to-python-part-I/04%20-%20Lists%2C%20Tuples%20and%20Sets.ipynb)
+4. [File I/O](day-1-introduction-to-python-part-I/05%20-%20File%20IO.ipynb)
+5. [Section Review](day-1-introduction-to-python-part-I/06%20-%20Review.ipynb) (Optional)
 
-## Collections and Files (Day 2)
-1. [Lists, Tuples, and Sets](Lessons/Day2_am1_Lists-Tuples-and-Sets.ipynb)
-3. [File I/O](Lessons/Day2_am2_File-IO.ipynb)
-4. [Section Review](Lessons/Day2_pm1_Review.ipynb)
+## Imports, Plots, Functions, Dictionaries, and Web Scraping  (Day 2)
+0. [The Python Standard Library](day-2-introduction-to-python-part-II-and-web-scraping/00%20-%20Standard%20Library.ipynb)
+1. [Data Visualization](day-2-introduction-to-python-part-II-and-web-scraping/01%20-%20Data%20Visualization.ipynb)
+2. [Functions](day-2-introduction-to-python-part-II-and-web-scraping/02%20-%20Functions.ipynb)
+3. [Review](day-2-introduction-to-python-part-II-and-web-scraping/03%20-%20Review.ipynb) (Optional)
+4. [Dictionaries](day-2-introduction-to-python-part-II-and-web-scraping/04%20-%20Dictionaries.ipynb)
+5. [Review](/day-2-introduction-to-python-part-II-and-web-scraping/05%20-%20Review.ipynb) (Optional)
+6. [Mini-Project](day-2-introduction-to-python-part-II-and-web-scraping/06%20-%20Mini-Project.ipynb)
+7. [Web Scraping](/day-2-introduction-to-python-part-II-and-web-scraping/07%20-%20Web%20scraping.ipynb)
 
-## Imports, Plots, and Functions (Day 3)
-1. [The Python Standard Library](Lessons/Day3_am1_Standard-Library.ipynb)
-2. [Data Visualization](Lessons/Day3_am2_Data-Visualization.ipynb)
-3. [Functions](Lessons/Day3_pm1_Functions.ipynb)
-4. [Review](Lessons/Day3_pm2_Review.ipynb) (Optional)
+## Data Mining, Statistics, and Data Analysis (Day 3)
+0. [Statistical analysis with Python](day-2-introduction-to-python-part-II-and-web-scraping/00%20-%20Standard%20Library.ipynb)
+1. [Bootstrapping MC chains](day-2-introduction-to-python-part-II-and-web-scraping/01%20-%20Data%20Visualization.ipynb)
+2. [More stats with Python](day-2-introduction-to-python-part-II-and-web-scraping/02%20-%20Functions.ipynb)
+3. [Structured Data Analysis Pt1](day-2-introduction-to-python-part-II-and-web-scraping/03%20-%20Review.ipynb) 
+4. [Structured Data Analysis Pt2](day-2-introduction-to-python-part-II-and-web-scraping/04%20-%20Dictionaries.ipynb)
 
-## Dictionaries and Skill Review (Day 4)
-1. [Dictionaries](Lessons/Day4_am1_dictionaries.ipynb)
-2. [Review](Lessons/Day4_am2_Review.ipynb)
-3. [Mini-Project](Lessons/Day4_pm1_Mini-Project.ipynb)
-
-## Textual Analysis (Day 5)
-1. [Text Analysis](Lessons/Day5_am1_Text-analysis.ipynb)
-2. [Regular expressions](Lessons/Day5_pm1_Regular-expressions.ipynb)
-3. [Sentiment analysis](Lessons/Day5_pm2_Sentiment-Analysis.ipynb)
-
-## Working with the Web (Day 6)
-1. [Introduction to APIs](Lessons/Day6_am1_Using_APIs_1.ipynb)
-2. [Reading and Posting with APIs](Lessons/Day6_am2_Using_APIs_2.ipynb)
-3. [Web Scraping](Lessons/Day6_pm1_Web_scraping.ipynb)
 
 
 ## Software Installation
 
-This bootcamp uses the [Anaconda Python 3.5 distribution](https://www.continuum.io/downloads)
+This bootcamp uses the [Anaconda Python 3.5> distribution](https://www.continuum.io/downloads)
 
 
 **You must have Anaconda Python 3.5 installed before the first day of class**
@@ -101,9 +96,9 @@ Enrollment Period: 04/15/2019 to 05/30/2019.
 * Newman, M. Networks: An introduction. (Oxford University Press, 2010).
 * [Alves, L. G. A., Ribeiro, H. V., Rodrigues, F. A. Crime  prediction through urban metrics and statistical learning. Physica A 515, 435 (2018).](https://doi.org/10.1016/j.physa.2018.03.084)
 * [Ribeiro, H. V., Alves, L. G. A., Martins, A. F., Lenzi, E.K., Perc. M. The dynamical structure of political corruption networks. Journal of Complex Networks CNY002 (2018).](https://doi.org/10.1093/comnet/cny002)
-* [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
-* [Introduction to Machine Learning with Python](https://github.com/amueller/ml-training-intro)
-* [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
-* []()
+* [Amaral, Luis A. N., Pah, Adam R., et al, NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
+* [Mueller, A., Introduction to Machine Learning with Python](https://github.com/amueller/ml-training-intro)
+* [Unpingco, J,, Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
+* [Derzsy, N., Network Graph Analysis in Python](https://github.com/nderzsy/Network-Analysis-in-Python---Tutorial-JupyterCon18-ODSCEast18)
 
 
