@@ -59,7 +59,7 @@ This course is broken up into several modules with each module having a set of J
 2. [Trees](day-5-machine-learning-part-II/02%20-%20Trees.ipynb)
 3. [Random Forests](day-5-machine-learning-part-II/03%20-%20Random%20Forests.ipynb)
 4. [Gradient Boosting](day-5-machine-learning-part-II/04%20-%20Gradient%20Boosting.ipynb) 
-5. [Homicides prediction](day-5-machine-learning-part-II/05%20-%20Homicides%20Prediction.ipynb)
+5. [Homicides Prediction](day-5-machine-learning-part-II/05%20-%20Homicides%20prediction.ipynb)
 
 ## Complex Network and Analysis of Corruption Networks (Day 5)
 0. [Network Basics](day-6-complex-network-analysis-of-corruption/00%20-%20Network%20Basics.ipynb)
