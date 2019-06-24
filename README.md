@@ -10,6 +10,11 @@ There has been a remarkable increasing in the amount of stored data by private a
 
 Using these tools, we will focus on two issues that are of great relevance in Brazil: predicting homicides in cities and describing the mechanism behind political corruption networks. In the first topic, we will use machine learning techniques to predict the number of crimes in Brazilian cities. In the second theme, we will use the complex networks to describe the interaction between politicians investigated in corruption scandals in Brazil from 1987 to 2014.
 
+Any comments, questions, or concerns can be directed to:
+
+* Luiz G. A. Alves <lgaalves@northwestern.edu>
+
+
 # Course Syllabus
 
 This course is broken up into several modules with each module having a set of Jupyter notebooks to help teach concepts.
@@ -45,19 +50,6 @@ This course is broken up into several modules with each module having a set of J
 1. [Introduction to APIs](Lessons/Day6_am1_Using_APIs_1.ipynb)
 2. [Reading and Posting with APIs](Lessons/Day6_am2_Using_APIs_2.ipynb)
 3. [Web Scraping](Lessons/Day6_pm1_Web_scraping.ipynb)
-
-## Statistics and Structured Data (Day 7)
-0. [Statistical Analysis with Python](Lessons/Day7_am1_Statistical_analysis_w_Python.ipynb)
-1. [Bootstrapping](Lessons/Day7_am2_The-Bootstrap.ipynb)
-2. [Model Fitting](Lessons/Day7_am2_More_stats_w_Python.ipynb)
-1. [Structured data analysis - Part 1](Lessons/Day7_pm1_Structured-Data-Analysis-Pt1.ipynb)
-2. [Structured data analysis - Part 2](Lessons/Day7_pm2_Structured-Data-Analysis-Pt2.ipynb)
-
-
-
-Any comments, questions, or concerns can be directed to:
-
-* Luiz G. A. Alves <lgaalves@northwestern.edu>
 
 
 ## Software Installation
@@ -109,9 +101,9 @@ Enrollment Period: 04/15/2019 to 05/30/2019.
 * Newman, M. Networks: An introduction. (Oxford University Press, 2010).
 * [Alves, L. G. A., Ribeiro, H. V., Rodrigues, F. A. Crime  prediction through urban metrics and statistical learning. Physica A 515, 435 (2018).](https://doi.org/10.1016/j.physa.2018.03.084)
 * [Ribeiro, H. V., Alves, L. G. A., Martins, A. F., Lenzi, E.K., Perc. M. The dynamical structure of political corruption networks. Journal of Complex Networks CNY002 (2018).](https://doi.org/10.1093/comnet/cny002)
-* [NICO 101 - Introduction to Programming for Big Data
-](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
-* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-* []
+* [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
+* [Introduction to Machine Learning with Python](https://github.com/amueller/ml-training-intro)
+* [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
+* []()
 
 
