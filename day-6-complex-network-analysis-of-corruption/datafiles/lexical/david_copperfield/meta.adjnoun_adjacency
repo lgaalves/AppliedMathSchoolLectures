@@ -1,0 +1,11 @@
+category: Lexical
+code: AN
+name: David Copperfield
+description: Word–word adjacency
+url: http://www-personal.umich.edu/~mejn/netdata/adjnoun.zip
+cite: konect:adjnoun
+extr: adjnoun
+long-description: This is the undirected network of common noun and adjective adjacencies for the novel "David Copperfield" by English 19th century writer Charles Dickens. A node represents either a noun or an adjective. An edge connects two words that occur in adjacent positions. The network is not bipartite, i.e., there are edges connecting adjectives with adjectives, nouns with nouns and adjectives with nouns.
+tags: #missingorientation
+entity-names: word
+relationship-names: adjacency 

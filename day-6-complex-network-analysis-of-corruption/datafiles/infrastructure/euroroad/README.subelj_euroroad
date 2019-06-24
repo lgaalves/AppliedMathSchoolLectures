@@ -1,0 +1,61 @@
+Euroroad network, part of the Koblenz Network Collection
+===========================================================================
+
+This directory contains the TSV and related files of the subelj_euroroad network:
+
+This is the international E-road network, a road network located mostly in Europe.  The network is undirected; nodes represent cities and an edge between two nodes denotes that they are connected by an E-road. 
+
+
+More information about the network is provided here: 
+http://konect.uni-koblenz.de/networks/subelj_euroroad
+
+Files: 
+    meta.subelj_euroroad -- Metadata about the network 
+    out.subelj_euroroad -- The adjacency matrix of the network in space separated values format, with one edge per line
+      The meaning of the columns in out.subelj_euroroad are: 
+        First column: ID of from node 
+        Second column: ID of to node
+    ent.subelj_euroroad.city.name -- Contains the attribute `name` of entity `city` of the network
+
+
+Complete documentation about the file format can be found in the KONECT
+handbook, in the section File Formats, available at:
+
+http://konect.uni-koblenz.de/publications
+
+All files are licensed under a Creative Commons Attribution-ShareAlike 2.0 Germany License.
+For more information concerning license visit http://konect.uni-koblenz.de/license.
+
+
+
+Use the following References for citation:
+
+@MISC{konect:2016:subelj_euroroad,
+    title = {Euroroad network dataset -- {KONECT}},
+    month = sep,
+    year = {2016},
+    url = {http://konect.uni-koblenz.de/networks/subelj_euroroad}
+}
+
+@article{konect:eroads,
+	title = {Robust Network Community Detection Using Balanced Propagation},
+	volume = {81},
+	number = {3},
+	journal = {Eur. Phys. J. B},
+	author = {\v{S}ubelj, Lovro and Bajec, Marko},
+	year = {2011},
+	pages = {353--362}
+}
+
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://userpages.uni-koblenz.de/~kunegis/paper/kunegis-koblenz-network-collection.pdf}, 
+	url_presentation = {http://userpages.uni-koblenz.de/~kunegis/paper/kunegis-koblenz-network-collection.presentation.pdf},
+}
+
+

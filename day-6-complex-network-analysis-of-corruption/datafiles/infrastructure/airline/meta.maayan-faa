@@ -1,0 +1,12 @@
+
+name:  Air traffic control
+code:  TC
+url:   http://research.mssm.edu/maayan/datasets/qualitative_networks.shtml
+category:  Infrastructure
+description:  Node–node preferred routes
+cite:  konect:faa
+long-description:  This network was constructed from the USA's FAA (Federal Aviation Administration) National Flight Data Center (NFDC), Preferred Routes Database. Nodes in this network represent airports or service centers and links are created from strings of preferred routes recommended by the NFDC. 
+entity-names:  airport/service center
+relationship-names:  preferred route
+extr:  maayan
+tags:  #loop

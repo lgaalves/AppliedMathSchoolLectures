@@ -1,0 +1,10 @@
+category: Infrastructure
+code: UG
+name: US power grid
+description: Node–node supplies
+entity-names: node
+extr: opsahl
+url: http://toreopsahl.com/datasets/#uspowergrid
+long-description: This undirected network contains information about the power grid of the Western States of the United States of America. An edge represents a power supply line. A node is either a generator, a transformator or a substation.  
+relationship-names: supply
+cite: konect:duncan98

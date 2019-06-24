@@ -1,0 +1,18 @@
+category: Social
+code: Ol
+name: Facebook (WOSN)
+fullname: Facebook friendships
+description: User–user friendship
+url: http://socialnetworks.mpi-sws.org/data-wosn2009.html
+cite: viswanath09
+extr: facebook-wosn
+entity-names: user,user
+relationship-names: friendship
+long-description: This undirected network contains friendship data of Facebook users.  A node represents a user and an edge represents a friendship between two users.  The dataset is obviously not complete and contains a very small subset of the total Facebook friendship graph. 
+n3-add-prefix-1: sioc: <http://rdfs.org/sioc/ns#> .
+n3-prefix-m: konect_facebook_wosn_links_user: <http://konect.uni-koblenz.de/networks/facebook-wosn-links/User/> .
+n3-type-m: sioc:UserAccount
+n3-edgedata-1: $m foaf:knows $n .
+n3-edgedata-2: $n foaf:knows $m .
+n3-comment-1: # the original dataset contained timestamps which have been dropped during the conversion to RDF, because of the lack of an proper ontology
+tags: #incomplete 
