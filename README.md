@@ -71,10 +71,10 @@ This course is broken up into several modules with each module having a set of J
 
 ## Software Installation
 
-This bootcamp uses the [Anaconda Python 3.5> distribution](https://www.continuum.io/downloads)
+This bootcamp uses the [Anaconda Python 3.7 distribution](https://www.continuum.io/downloads)
 
 
-**You must have Anaconda Python 3.5 installed before the first day of class**
+**You must have Anaconda Python 3.7 installed before the first day of class**
 
 We also require that you have a relatively modern operating system. 
 
@@ -111,16 +111,18 @@ Enrollment Period: 04/15/2019 to 05/30/2019.
 
 ## References
 
-* Downey, A. Think Python. (O’Reilly, 2012).
-* Mitchell, R. Web Scraping with Python. (O’Reilly, 2018).
-* Janert, P. K. Data Analysis with Open Source Tools. (O’Reilly, 2010).
-* Friedman, J., Hastie, T., & Tibshirani, R. The elements of statistical learning. (Springer, 2001).
-* Newman, M. Networks: An introduction. (Oxford University Press, 2010).
+* [Downey, A. Think Python. (O’Reilly, 2012).](https://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Mitchell, R. Web Scraping with Python. (O’Reilly, 2018).](https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf)
+* [Janert, P. K. Data Analysis with Open Source Tools. (O’Reilly, 2010).](https://github.com/mindis/002_MachineLearning_eBook/blob/master/data%20analysis%20with%20open%20source%20tools%20(2010).pdf)
+* [Friedman, J., Hastie, T., & Tibshirani, R. The elements of statistical learning. (Springer, 2001).](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* [Newman, M. Networks: An introduction. (Oxford University Press, 2010).](http://math.sjtu.edu.cn/faculty/xiaodong/course/Networks%20An%20introduction.pdf)
 * [Alves, L. G. A., Ribeiro, H. V., Rodrigues, F. A. Crime  prediction through urban metrics and statistical learning. Physica A 515, 435 (2018).](https://doi.org/10.1016/j.physa.2018.03.084)
 * [Ribeiro, H. V., Alves, L. G. A., Martins, A. F., Lenzi, E.K., Perc. M. The dynamical structure of political corruption networks. Journal of Complex Networks CNY002 (2018).](https://doi.org/10.1093/comnet/cny002)
 * [Amaral, Luis A. N., Pah, Adam R., et al, NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
 * [Mueller, A., Introduction to Machine Learning with Python](https://github.com/amueller/ml-training-intro)
-* [Unpingco, J,, Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
+* [Unpingco, J, Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
 * [Derzsy, N., Network Graph Analysis in Python](https://github.com/nderzsy/Network-Analysis-in-Python---Tutorial-JupyterCon18-ODSCEast18)
+* [Guimera, R., Mossa, S., Turtschi, A., & Amaral, L. N., The worldwide air transportation network: Anomalous centrality, community structure, and cities' global roles. Proceedings of the National Academy of Sciences, 102(22), 7794-7799 (2005).](https://www.pnas.org/content/102/22/7794.short)
+* [Guimera, R., & Amaral, L. A. N., Functional cartography of complex metabolic networks. nature, 433(7028), 895 (2005).](https://www.nature.com/articles/nature03288)
 
 
