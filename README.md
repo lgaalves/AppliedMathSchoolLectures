@@ -62,11 +62,11 @@ This course is broken up into several modules with each module having a set of J
 5. [Homicides prediction](day-5-machine-learning-part-II/05%20-%20Homicides%20Prediction.ipynb)
 
 ## Complex Network and Analysis of Corruption Networks (Day 5)
-0. [Network Basics](day-5-machine-learning-part-II/00%20-%20Linear%20Models%20for%20Regression.ipynb)
-1. [Analysis of Structural Properties](day-5-machine-learning-part-II/01%20-%20Linear%20Models%20for%20Classification.ipynb)
-2. [Network Vizualization and Queries on Networks](day-5-machine-learning-part-II/02%20-%20Trees.ipynb)
-3. [Network Analysis from Data](day-5-machine-learning-part-II/03%20-%20Random%20Forests.ipynb)
-4. [Corruption Network](day-5-machine-learning-part-II/04%20-%20Gradient%20Boosting.ipynb) 
+0. [Network Basics](day-6-complex-network-analysis-of-corruption/00%20-%20Network%20Basics.ipynb)
+1. [Analysis of Structural Properties](day-6-complex-network-analysis-of-corruption/01%20-%20Analysis%20of%20Structural%20Properties.ipynb)
+2. [Network Vizualization and Queries on Networks](day-6-complex-network-analysis-of-corruption/02%20-%20Network%20Visualization%20and%20Queries%20on%20Networks.ipynb)
+3. [Network Analysis from Data](day-6-complex-network-analysis-of-corruption/03%20-%20Network%20Analysis%20from%20Data%20.ipynb)
+4. [Corruption Network](day-6-complex-network-analysis-of-corruption/03%20-%20Network%20Analysis%20from%20Data%20.ipynb) 
 
 
 ## Software Installation
