@@ -71,7 +71,7 @@ This course is broken up into several modules with each module having a set of J
 ## Social network analysis using  `igraph` and `leidenalg` (Extra)
 0. [Network Basics](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/00%20-%20Getting%20started.ipynb)
 1. [Social Networks](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/01%20-%20Social%20Networks.ipynb)
-2. [Complex Networks Model](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/02%20-%20Complex%20networks.ipynb)
+2. [Complex Networks Models](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/02%20-%20Complex%20networks.ipynb)
 3. [Community Detection](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/04%20-%20Community%20detection.ipynb)
 
 ## Software Installation
