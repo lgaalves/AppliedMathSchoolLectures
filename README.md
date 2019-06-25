@@ -68,6 +68,11 @@ This course is broken up into several modules with each module having a set of J
 3. [Network Analysis from Data](day-6-complex-network-analysis-of-corruption/03%20-%20Network%20Analysis%20from%20Data%20.ipynb)
 4. [Corruption Network](day-6-complex-network-analysis-of-corruption/03%20-%20Network%20Analysis%20from%20Data%20.ipynb) 
 
+## Social network analysis using  `igraph` and `leidenalg` (Extra)
+0. [Network Basics](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/00%20-%20Getting%20started.ipynb)
+1. [Social Networks](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/01%20-%20Social%20Networks.ipynb)
+2. [Complex Networks Model](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/02%20-%20Complex%20networks.ipynb)
+3. [Community Detection](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/04%20-%20Community%20detection.ipynb)
 
 ## Software Installation
 
@@ -124,5 +129,6 @@ Enrollment Period: 04/15/2019 to 05/30/2019.
 * [Derzsy, N., Network Graph Analysis in Python](https://github.com/nderzsy/Network-Analysis-in-Python---Tutorial-JupyterCon18-ODSCEast18)
 * [Guimera, R., Mossa, S., Turtschi, A., & Amaral, L. N., The worldwide air transportation network: Anomalous centrality, community structure, and cities' global roles. Proceedings of the National Academy of Sciences, 102(22), 7794-7799 (2005).](https://www.pnas.org/content/102/22/7794.short)
 * [Guimera, R., & Amaral, L. A. N., Functional cartography of complex metabolic networks. nature, 433(7028), 895 (2005).](https://www.nature.com/articles/nature03288)
+* [Traag, V., Computational Social Science (CSS) Workshop](https://github.com/vtraag/4TU-CSS/blob/master/presentations/traag/notebook/Network.ipynb)
 
 
