@@ -1,8 +1,6 @@
 # Ignore everything
-*
 
 # Don't ignore directories, so we can recurse into them
-*/
 
 # Don't ignore .gitignore
 .gitignore
@@ -15,3 +13,5 @@
 !.pyc
 !.deps
 !__pycache__
+!.ipynb_checkpoints
+!.DS_Store
