@@ -69,10 +69,10 @@ This course is broken up into several modules with each module having a set of J
 4. [Corruption Network](day-6-complex-network-analysis-of-corruption/03%20-%20Network%20Analysis%20from%20Data%20.ipynb) 
 
 ## Social Network Analysis Using  `igraph` and `leidenalg` (Extra)
-0. [Network Basics](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/00%20-%20Getting%20started.ipynb)
-1. [Social Networks](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/01%20-%20Social%20Networks.ipynb)
-2. [Complex Networks Models](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/02%20-%20Complex%20networks.ipynb)
-3. [Community Detection](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/04%20-%20Community%20detection.ipynb)
+0. [Network Basics](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-igraph/00%20-%20Getting%20started.ipynb)
+1. [Social Networks](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-igraph/01%20-%20Social%20Networks.ipynb)
+2. [Complex Networks Models](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-igraph/02%20-%20Complex%20networks.ipynb)
+3. [Community Detection](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-igraph/04%20-%20Community%20detection.ipynb)
 
 
 ## Software Installation
