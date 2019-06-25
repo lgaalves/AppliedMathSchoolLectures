@@ -1,7 +1,8 @@
 # Ignore everything
 
 # Don't ignore directories, so we can recurse into them
-
+/
+.ipynb
 # Don't ignore .gitignore
 .gitignore
 .py
