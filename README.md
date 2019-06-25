@@ -8,7 +8,7 @@ There has been a remarkable increasing in the amount of stored data by private a
 * Machine learning;
 * Complex networks.
 
-Using these tools, we will focus on two issues that are of great relevance in Brazil: predicting homicides in cities and describing the mechanism behind political corruption networks. In the first topic, we will use machine learning techniques to predict the number of crimes in Brazilian cities. In the second theme, we will use the complex networks to describe the interaction between politicians investigated in corruption scandals in Brazil from 1987 to 2014.
+Using these tools, we will focus on two issues that are of great relevance in Brazil: predicting homicides in cities and describing the mechanism behind political corruption networks. In the first topic, we will use machine learning techniques to predict the number of crimes in Brazilian cities. In the second topic, we will use complex networks to describe the interaction between politicians investigated in corruption scandals in Brazil from 1987 to 2014.
 
 Any comments, questions, or concerns can be directed to:
 
