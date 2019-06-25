@@ -82,11 +82,6 @@ This bootcamp uses the [Anaconda Python 3.7 distribution](https://www.continuum.
 
 **You must have Anaconda Python 3.7 installed before the first day of class**
 
-We also require that you have a relatively modern operating system. 
-
-For Windows, you must be using Windows 7 or later.
-
-For Mac, you must be using OS X 10.9 or later.
 
 ## Downloading Course Materials
 
