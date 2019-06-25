@@ -74,6 +74,7 @@ This course is broken up into several modules with each module having a set of J
 2. [Complex Networks Models](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/02%20-%20Complex%20networks.ipynb)
 3. [Community Detection](https://github.com/lgaalves/school_crime_and_corruption_analysis/blob/master/complex-networks-with-graph/04%20-%20Community%20detection.ipynb)
 
+
 ## Software Installation
 
 This bootcamp uses the [Anaconda Python 3.7 distribution](https://www.continuum.io/downloads)
